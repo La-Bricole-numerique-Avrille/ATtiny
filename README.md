@@ -14,3 +14,7 @@ ATtiny (aussi connu sous le nom de TinyAVR) est une sous-famille populaire de mi
 ## Cartes ATtiny
 
 ### Adafruit ATtiny
+
+ * [Cartes Adafruit ATtiny](https://www.adafruit.com/search?q=ATtiny)
+   * [Adafruit GEMMA M0 - Miniature wearable electronic platform](https://www.adafruit.com/product/3501)
+   * [Adafruit GEMMA v2 - Miniature wearable electronic platform](https://www.adafruit.com/product/1222)
