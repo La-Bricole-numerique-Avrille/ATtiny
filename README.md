@@ -6,6 +6,11 @@ ATtiny (aussi connu sous le nom de TinyAVR) est une sous-famille populaire de mi
 
  * [Tableau comparatif des microcontrôleurs ATtiny](https://fr.wikipedia.org/wiki/Tableau_comparatif_des_microcontr%C3%B4leurs_ATtiny)
 
+## Tutoriels
+
+ * [Comment programmer les Attiny 85 , Attiny 84 et Attiny 4313](http://christianpc.fr/comment-programmer-un-attiny-85)
+ * [Prise en main ATTiny85](https://www.sla99.fr/2019/12/01/prise-en-main-attiny85)
+
 ## Cartes ATtiny
 
 ### Adafruit ATtiny
