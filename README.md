@@ -23,3 +23,5 @@ ATtiny (aussi connu sous le nom de TinyAVR) est une sous-famille populaire de mi
 
  * [3D Printed LED-Animation BMO](https://learn.adafruit.com/3d-printed-led-animation-bmo) Créez votre propre BMO adorable avec une mini matrice LED 8x8 et une carte Gemma
    * [Tuto matrices LED Adafruit](https://learn.adafruit.com/adafruit-led-backpack)
+   * [Adafruit Mini 8x8 LED Matrix w/I2C Backpack - Red](https://www.digikey.com/en/products/detail/adafruit-industries-llc/870/5699170)
+
