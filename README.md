@@ -18,3 +18,7 @@ ATtiny (aussi connu sous le nom de TinyAVR) est une sous-famille populaire de mi
  * [Cartes Adafruit ATtiny](https://www.adafruit.com/search?q=ATtiny)
    * [Adafruit GEMMA M0 - Miniature wearable electronic platform](https://www.adafruit.com/product/3501)
    * [Adafruit GEMMA v2 - Miniature wearable electronic platform](https://www.adafruit.com/product/1222)
+
+## Projets
+
+ * [3D Printed LED-Animation BMO](https://learn.adafruit.com/3d-printed-led-animation-bmo) Créez votre propre BMO adorable avec une mini matrice LED 8x8 et une carte Gemma
